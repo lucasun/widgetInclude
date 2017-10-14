@@ -1,0 +1,19 @@
+{
+  "name": "kfz-include",
+  "version": "1.0.0",
+  "description": "孔网widget文件加载器",
+  "main":"include.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "kfz", "include","require","file loader"
+  ],
+  "readmeFile":"README.md",
+  "author": "sunchao@kongfz.com",
+  "license": "ISC",
+  "dependencies": {},
+  "engines": {
+    "node": ">=4.0.0"
+  }
+}
